@@ -1,0 +1,95 @@
+{
+    "myInfo": {
+        "firstName": "Hüseyin",
+        "lastName": "Çiçek",
+        "dateOfBirth": "2024-08-09",
+        "contacts": {
+            
+        },
+        "address": {
+            "district": "Rami cuma mahallesi",
+            "street": "ilkyaz sokak",
+            "buildNumber": "1",
+            "apartment": "25/27"
+        }
+    },
+    "locationInfo":{
+        "profession": "Software Developer",
+        "city": "İstanbul",
+        "town": "Eyüp",
+        "email": "mrcicek.huseyin@gmail.com",
+        "phone": "0546 295 1593",
+        "githubLink":"https://github.com/CicekHuseyin"
+    },
+    "skills": [
+        {
+            "skillName": "C#",
+            "value": 78
+        },
+        {
+            "skillName": "MSSQL",
+            "value": 82
+        },
+        {
+            "skillName": "Asp.Net Core Web Api",
+            "value": 53
+        },
+        {
+            "skillName": "Ado Net",
+            "value": 68
+        },
+        {
+            "skillName": "Asp.Net Core",
+            "value": 69
+        }
+    ],
+    "languages": [
+        {
+            "languageName": "İngilizce",
+            "value":43
+        },
+        {
+            "languageName": "Türkçe",
+            "value":87
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "Knowhow Production",
+            "title": "Backend Developer",
+            "startDate": "2023-11-01",
+            "endDate": "2023-12-01",
+            "description": "C# .Net teknolojisi ile var olan mobil uygulama da backend tarafında geliştirmeler yaptım."
+        },
+        {
+            "companyName": "E4 Yazılım",
+            "title": "Softare Developer",
+            "startDate": "2022-09-01",
+            "endDate": "2022-12-01",
+            "description": "Firmanın aldığı web projelerin de full stack developer olarak geliştirmeler yaptım."
+        }
+    ],
+    "educations": [
+        {
+            "schoolName": "Anadolu Üniversitesi",
+            "section": "Yönetim Bilişim Sistemleri",
+            "startDate": "2024-09-01",
+            "endDate": "Halen",
+            "graduationGrade": 3.50
+        },
+        {
+            "schoolName": "Uludağ Üniversitesi",
+            "section": "Bilgisayar Programcılığı",
+            "startDate": "2020-09-01",
+            "endDate": "2022-06-01",
+            "graduationGrade": 3.22
+        },
+        {
+            "schoolName": "Sultanahmet Mesleki Teknik Anadolu Lisesi",
+            "section": "Web Tasarım",
+            "startDate": "2015-09-01",
+            "endDate": "2019-06-01",
+            "graduationGrade": 72
+        }
+    ]
+}
