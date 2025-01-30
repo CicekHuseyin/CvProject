@@ -1,0 +1,3 @@
+Veriyi çekmek için:
+
+json-server --watch .\profile-infos.json
